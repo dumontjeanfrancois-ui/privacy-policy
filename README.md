@@ -68,7 +68,7 @@ Conforme aux réglementations : RGPD, CCPA, LGPD, Loi Informatique et Libertés
 
 10. CONTACT
 -----------
-Email : privacy@padelboardpro.com
+Email : padel.tennis.tracker@gmail.com
 Application : PADELBOARD Pro v4.0
 Développeur : PADELBOARD Team
 
